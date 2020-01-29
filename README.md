@@ -1,7 +1,6 @@
 # docker-react-nginx-prodbuild-sample
 
-## A simple production build for client server rendering microservices
-## with create-react-app, docker, nginx
+## A simple production build for client server rendering microservice with create-react-app, docker, nginx
 
 
 
