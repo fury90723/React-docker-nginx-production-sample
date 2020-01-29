@@ -15,4 +15,7 @@ docker-compose up -d
 ```
 
 ### check that nginx is fine and everything works
+
+```
 go to localhost:3000
+```
