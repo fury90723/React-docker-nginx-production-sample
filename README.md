@@ -8,7 +8,7 @@
 docker build -t frontend-service .
 ```
 
-### fire the docker-compose (-d runs the container on background)
+### fire the container up
 
 ```
 docker-compose up -d
